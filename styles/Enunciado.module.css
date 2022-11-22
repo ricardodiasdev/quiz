@@ -1,0 +1,9 @@
+.enunciado {
+    display: flex;
+    cursor: default;
+}
+
+.texto {
+    font-size: 2.5rem;
+    font-size: 700;
+}
